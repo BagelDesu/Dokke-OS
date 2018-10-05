@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31aede45d5cc94c4d67dce8e5917bf95\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:11:5-31:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31aede45d5cc94c4d67dce8e5917bf95\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31aede45d5cc94c4d67dce8e5917bf95\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.miguel.student.r6dokaebiapp.Dokkaebi
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:18:9-25:20
+	android:screenOrientation
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:18:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.miguel.student.r6dokaebiapp.ListPairedDevices
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:25:20-26:67
+	android:label
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:26:9-65
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:25:30-63
+meta-data#preloaded_fonts
+ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:28:9-30:57
+	android:resource
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:30:13-54
+	android:name
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml:29:13-43
+uses-sdk
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31aede45d5cc94c4d67dce8e5917bf95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\31aede45d5cc94c4d67dce8e5917bf95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Sample Projs\DokkaebiV2-20180506T060517Z-001\DokkaebiV2\r6DokaebiApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\215db96beb0636fe955bbebc3c06cd07\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9232a12024b7dd074ef519dc0296ad83\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\efc86fff9263576ff7609af6a0b473cd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\0420700aa049b20b6bd9b9a82eec82bd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\7948a5dcf187e44e037a73a7095e0a1e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8f9087a08527793bfdbf34c8276b297d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\e5a08173008e2938a66414198d63aac0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\14e686d551b6729ed54ededfd9f1fb33\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8d639745bff6cf317e81ddcd0206b03e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\1592e2be4f658ad11982f58d9d752af8\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\CMig'z\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\d742ad23529ba3d0407995820a7dd099\AndroidManifest.xml:26:13-58

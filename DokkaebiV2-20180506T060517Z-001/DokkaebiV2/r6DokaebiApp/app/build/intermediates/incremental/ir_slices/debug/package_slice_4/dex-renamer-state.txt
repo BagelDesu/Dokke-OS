@@ -1,0 +1,4 @@
+#Sat May 19 20:08:12 CDT 2018
+base.0=D\:\\Android Studio Sample Projs\\DokkaebiV2-20180506T060517Z-001\\DokkaebiV2\\r6DokaebiApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

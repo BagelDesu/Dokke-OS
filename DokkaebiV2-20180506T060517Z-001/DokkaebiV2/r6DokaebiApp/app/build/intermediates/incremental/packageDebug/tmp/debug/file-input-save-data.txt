@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat May 19 09:14:28 CDT 2018
+1.base=D\:\\Android Studio Sample Projs\\DokkaebiV2-20180506T060517Z-001\\DokkaebiV2\\r6DokaebiApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Android Studio Sample Projs\\DokkaebiV2-20180506T060517Z-001\\DokkaebiV2\\r6DokaebiApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+1.path=classes.dex
